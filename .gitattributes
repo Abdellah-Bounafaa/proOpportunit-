@@ -1,5 +1,2 @@
-'wp-content/ai1wm-backups/127.0.0.1-wordpress-20231016-203655-bgl7on.wpress' filter=lfs diff=lfs merge=lfs -text
-'wordpress.zip' filter=lfs diff=lfs merge=lfs -text
-'wp-content/ai1wm-backups/127.0.0.1-wordpress-20231017-112409-saxs6b.wpress' filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
 *.wpress filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
